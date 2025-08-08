@@ -675,7 +675,7 @@
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">University</span>
-                        <span class="info-value-wedding">Devi Ahilya Vishwavidyalaya (DAVV)</span>
+                        <span class="info-value-wedding">Devi Ahilya Vishwavidyalaya (DAVV) Indore</span>
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Specialization</span>
