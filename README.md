@@ -798,4 +798,5 @@
                     </div>
                     <div class="contact-wedding-info">
                         <h3>Family Residence</h3>
+                           <p> Taranagar Colony Barwana 451115 </p>
                      
