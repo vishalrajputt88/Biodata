@@ -687,7 +687,7 @@
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Company</span>
-                        <span class="info-value-wedding">ULTRA TEND, London</span>
+                        <span class="info-value-wedding"> ULTRA TEND 71-75 Shelton Street, London, England GB</span>
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Annual Income</span>
