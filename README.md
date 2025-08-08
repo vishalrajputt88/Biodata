@@ -710,7 +710,7 @@
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Mother's Name</span>
-                        <span class="info-value-wedding">Smt. Shudha Bhai Chouhan</span>
+                        <span class="info-value-wedding">Smt. Sudha Bhai Chouhan</span>
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Siblings</span>
@@ -718,7 +718,7 @@
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Family Type</span>
-                        <span class="info-value-wedding">Traditional Joint Family</span>
+                        <span class="info-value-wedding">Single Family</span>
                     </li>
                     <li class="wedding-info-item">
                         <span class="info-label-wedding">Family Status</span>
