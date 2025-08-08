@@ -35,6 +35,7 @@
             position: relative;
             overflow-x: hidden;
         }
+        h1 a { display: none !important;  }
 
         /* Wedding Pattern Background */
         body::before {
