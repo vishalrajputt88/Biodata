@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -49,11 +48,11 @@
       z-index: 0;
     }
     .banner-bg img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center top;
-      display: block;
+     width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: right;
+    display: block;
     }
     /* Dark fade left-to-right so text is readable */
     .banner-bg::after {
