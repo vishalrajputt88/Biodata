@@ -440,6 +440,12 @@
   span, p, button, a, div { font-family: "Urbanist", sans-serif; }
 
     @media (max-width: 700px) {
+    .markdown-body h1 {
+    padding-bottom: 0px;
+    font-size: 2em;
+    border-bottom: none;
+    margin-bottom: 0px;
+}
     .banner-om { display: none; }
     .banner-tag { display: none; }
       .banner { height: auto; min-height: 520px; }
