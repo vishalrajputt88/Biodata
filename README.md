@@ -31,6 +31,12 @@
       min-height: 100vh;
     }
  .markdown-body>*:first-child { display: none !important; } 
+    .markdown-body h1 {
+    padding-bottom: 0px;
+    font-size: 2em;
+    border-bottom: none;
+    margin: 0px;
+}
     /* ── TOP STRIP ── */
     .top-strip {
       height: 4px;
@@ -54,7 +60,7 @@
     .banner-bg img {
      width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
     object-position: right;
     display: block;
     }
@@ -440,12 +446,7 @@
   span, p, button, a, div { font-family: "Urbanist", sans-serif; }
 
     @media (max-width: 700px) {
-    .markdown-body h1 {
-    padding-bottom: 0px;
-    font-size: 2em;
-    border-bottom: none;
-    margin: 0px;
-}
+    
     .banner-om { display: none; }
     .banner-tag { display: none; }
       .banner { height: auto; min-height: 520px; }
