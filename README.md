@@ -440,10 +440,13 @@
   span, p, button, a, div { font-family: "Urbanist", sans-serif; }
 
     @media (max-width: 700px) {
+    .banner-om { display: none; }
+    .banner-tag { display: none; }
       .banner { height: auto; min-height: 520px; }
       .banner-content { padding: 1rem 1.2rem;
         max-width: 100%;
-        margin-top: 47px; }
+     justify-content: end;
+    min-height: 520px; }
       .banner-name { font-size: 3rem; }
       .grid-2 { grid-template-columns: 1fr; }
       .contact-grid { grid-template-columns: 1fr; }
