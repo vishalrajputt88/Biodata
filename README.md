@@ -444,7 +444,7 @@
     padding-bottom: 0px;
     font-size: 2em;
     border-bottom: none;
-    margin-bottom: 0px;
+    margin: 0px;
 }
     .banner-om { display: none; }
     .banner-tag { display: none; }
