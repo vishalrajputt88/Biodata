@@ -441,13 +441,20 @@
 
     @media (max-width: 700px) {
       .banner { height: auto; min-height: 520px; }
-      .banner-content { padding: 2rem 1.2rem; max-width: 100%; }
+      .banner-content { padding: 1rem 1.2rem;
+        max-width: 100%;
+        margin-top: 47px; }
       .banner-name { font-size: 3rem; }
       .grid-2 { grid-template-columns: 1fr; }
       .contact-grid { grid-template-columns: 1fr; }
       .quote-section { padding: 2rem 1.5rem; }
       .main { padding: 2rem 1rem; }
+      .banner-bg img {
+  
+    object-position: right top; }
+    .banner-role { display: none; }
     }
+    
   </style>
 </head>
 <body>
