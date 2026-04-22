@@ -567,7 +567,7 @@
       <div class="row"><span class="lbl">Specialization</span><span class="val">Computer Programming</span></div>
       <div class="row"><span class="lbl">Profession</span><span class="val gold">Software Engineer</span></div>
       <div class="row"><span class="lbl">Company</span><span class="val">Ultra Tend, London UK</span></div>
-      <div class="row"><span class="lbl">Annual Income</span><span class="val gold">₹ 4.2 Lakhs p.a.</span></div>
+      <div class="row"><span class="lbl">Annual Income</span><span class="val gold">₹ 5.2 Lakhs p.a.</span></div>
     </div>
 
     <div class="scard">
