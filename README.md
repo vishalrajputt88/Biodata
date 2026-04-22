@@ -3,7 +3,12 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Vishal Rajput — Matrimonial Biodata</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet"/>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Paytone+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Paytone+One&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <style>
     :root {
       --gold:   #C9A84C;
@@ -21,12 +26,11 @@
     }
     * { margin:0; padding:0; box-sizing:border-box; }
     body {
-      font-family: 'EB Garamond', Georgia, serif;
       background: var(--dark);
       color: var(--cream);
       min-height: 100vh;
     }
-
+ 
     /* ── TOP STRIP ── */
     .top-strip {
       height: 4px;
@@ -432,6 +436,11 @@
       background: var(--dark);
       border-top: 1px solid var(--border2);
     }
+
+    h1, h2, h3, h4, h5, h6 {  font-family: "Paytone One", sans-serif;
+  font-weight: 400; }
+
+  span, p, button, a, div { font-family: "Urbanist", sans-serif; }
 
     @media (max-width: 700px) {
       .banner { height: auto; min-height: 520px; }
