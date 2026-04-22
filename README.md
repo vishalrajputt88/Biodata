@@ -124,7 +124,6 @@
       display: inline-flex;
       align-items: center;
       gap: 0.65rem;
-      font-family: 'Cinzel', serif;
       font-size: 0.58rem;
       font-weight: 600;
       letter-spacing: 0.26em;
@@ -143,14 +142,12 @@
     .banner-tag::after { background: linear-gradient(to left, transparent, var(--gold)); }
 
     .banner-intro {
-      font-family: 'EB Garamond', serif;
       font-style: italic;
       font-size: 1.05rem;
       color: var(--muted);
       margin-bottom: 0.15rem;
     }
     .banner-name {
-      font-family: 'Cormorant Garamond', serif;
       font-size: clamp(3rem, 6.5vw, 5rem);
       font-weight: 700;
       line-height: 1;
@@ -179,7 +176,7 @@
     }
 
     .banner-role {
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.78rem;
       letter-spacing: 0.15em;
       color: var(--gold3);
@@ -196,7 +193,7 @@
       border: 1px solid rgba(201,168,76,0.32);
       background: rgba(201,168,76,0.06);
       color: var(--gold3);
-      font-family: 'EB Garamond', serif;
+      
       font-size: 0.8rem;
       padding: 0.2rem 0.82rem;
       border-radius: 1px;
@@ -227,7 +224,7 @@
       background: linear-gradient(to right, transparent, var(--gold), transparent);
     }
     .orn-divider .os {
-      font-family: 'Cormorant Garamond', serif;
+      
       font-size: 1.2rem;
       color: var(--gold2);
       letter-spacing: 0.6rem;
@@ -247,7 +244,7 @@
       margin-bottom: 1.6rem;
     }
     .sec-title {
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.68rem;
       font-weight: 600;
       letter-spacing: 0.24em;
@@ -288,7 +285,7 @@
     }
 
     .stitle {
-      font-family: 'Cormorant Garamond', serif;
+      
       font-size: 1.05rem;
       font-weight: 700;
       font-style: italic;
@@ -311,13 +308,13 @@
     .lbl {
       font-size: 0.77rem;
       color: var(--muted);
-      font-family: 'EB Garamond', serif;
+      
       flex-shrink: 0;
     }
     .val {
       font-size: 0.87rem;
       font-weight: 500;
-      font-family: 'EB Garamond', serif;
+      
       color: var(--cream2);
       text-align: right;
     }
@@ -340,7 +337,7 @@
       pointer-events: none;
     }
     .quote-big {
-      font-family: 'Cormorant Garamond', serif;
+      
       font-size: 5rem;
       color: var(--gold);
       opacity: 0.13;
@@ -349,7 +346,7 @@
       top: 2rem; left: 2.5rem;
     }
     .quote-text {
-      font-family: 'Cormorant Garamond', serif;
+      
       font-size: 1.32rem;
       font-style: italic;
       color: var(--cream2);
@@ -358,7 +355,7 @@
       z-index: 1;
     }
     .quote-author {
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.6rem;
       letter-spacing: 0.22em;
       color: var(--gold);
@@ -372,7 +369,7 @@
       padding: 2rem 5%;
     }
     .contact-head {
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.6rem;
       letter-spacing: 0.25em;
       color: var(--gold);
@@ -410,14 +407,14 @@
       font-size: 1rem; flex-shrink: 0;
     }
     .clbl {
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.52rem;
       letter-spacing: 0.14em;
       color: var(--muted);
       margin-bottom: 0.2rem;
     }
     .cval {
-      font-family: 'EB Garamond', serif;
+      
       font-size: 0.88rem;
       color: var(--cream);
     }
@@ -429,7 +426,7 @@
     .bottom-text {
       text-align: center;
       padding: 1.2rem;
-      font-family: 'Cinzel', serif;
+      
       font-size: 0.52rem;
       letter-spacing: 0.28em;
       color: var(--muted);
@@ -437,7 +434,7 @@
       border-top: 1px solid var(--border2);
     }
 
-    h1, h2, h3, h4, h5, h6 {  font-family: "Paytone One", sans-serif;
+    h1, h2, h3, h4, h5, h6 {  font-family: "Paytone One", sans-serif; font-weight: 400 !important;
   font-weight: 400; }
 
   span, p, button, a, div { font-family: "Urbanist", sans-serif; }
@@ -504,7 +501,7 @@
     <div class="banner-om">ॐ</div>
     <div class="banner-tag">Hindu Matrimonial Biodata</div>
     <div class="banner-intro">I'm</div>
-    <h1 class="banner-name">Vishal <span class="sname">Rajput</span></h1>
+    <h1 class="banner-name">Vishal <span class="sname">Chouhan</span></h1>
     <div class="divider-orn">
       <span class="dl"></span>
       <span class="ds">✦ ✦ ✦</span>
