@@ -30,7 +30,7 @@
       color: var(--cream);
       min-height: 100vh;
     }
- 
+ .markdown-body>*:first-child { display: none !important; } 
     /* ── TOP STRIP ── */
     .top-strip {
       height: 4px;
